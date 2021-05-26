@@ -1,5 +1,5 @@
-# Personal Portifolio
+# Personal Page Portifolio
 
 ... In Progress
 
-Access: [github page](https://izaram.github.io "Izadora Portifolio")
+Access: [github page](https://izaram.github.io/personal-page/ "Izadora Portifolio")
